@@ -1,5 +1,7 @@
 # La-programancia-
 completely original code
+Diseñado para ser ejecutado en PSeInt
+
 * Se simula el lanzamiento de una moneda
 * El jugador puede elegir cara o sello antes de que caiga la moneda
 * El juego debe decirle si gana o pierde, gana cuando la moneda coincide con la elección del jugador.
